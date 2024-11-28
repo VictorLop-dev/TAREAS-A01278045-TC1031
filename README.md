@@ -1,10 +1,9 @@
 # Correcciones
 
-Estas actividades son para que practiques la implementación de algoritmos y estructuras de datos. Se basan en las actividades y programas desarrollados en clase, pero tienen pequeñas diferencias para garantizar que no copies y pegues el código ciegamente sin entenderlo.
-
-Cuando tengas que entregar la actividad en canvas por favor solo entrega el archivo.h que lleva el nombre del algoritmo o estructura como se viene en el encabezado del main.
-
-Los cambios que puedes esperar son: 
-el manejo de excepciones, 
-los casos de prueba, 
-los formatos de entrada y salida de algunas funciones.
+#Num Tarea            | Descripción:
+2 Ordenamiento        | No entregué la actividad originalmente
+3 Linked List         | Originalmente entregué un link a una carpeta de drive vacía
+4 Double Linked List  | Originalmente entregué un link a una carpeta de drive vacía
+5 BST                 | No entregué la actividad en un principio
+6 Splay Tree          | Llegué a creer que el delete solamente conectaba nodos de forma más sencilla, no tomé en cuenta el splay ni la función de sucesor, aquí lo corregí
+7 Grafos              | Originalmente ni siquiera corría, arreglé el error 
