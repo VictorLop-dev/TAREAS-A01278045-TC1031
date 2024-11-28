@@ -7,3 +7,4 @@
 5 BST                 | No entregué la actividad en un principio
 6 Splay Tree          | Llegué a creer que el delete solamente conectaba nodos de forma más sencilla, no tomé en cuenta el splay ni la función de sucesor, aquí lo corregí
 7 Grafos              | Originalmente ni siquiera corría, arreglé el error 
+9 Hash                | Elimine unas banderas que use para hacer el programa y se me olvido comentar
