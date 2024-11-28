@@ -1,6 +1,6 @@
 # Correcciones
 
-# Num Tarea            | Descripción:
+## Num Tarea            | Corrección:
 >2 Ordenamiento        | No entregué la actividad originalmente
 >
 >3 Linked List         | Originalmente entregué un link a una carpeta de drive vacía
