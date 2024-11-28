@@ -78,7 +78,7 @@ template <class Key, class Value>
 long Quadratic<Key, Value>::indexOf(const Key k) const {
 	unsigned int i, start,inc=0;
 	start = i = func(k) % size;
-  std::cout<<"Inicio de "<<k<<": "<<start<<std::endl;
+  //std::cout<<"Inicio de "<<k<<": "<<start<<std::endl;
 	do {
 		if (keys[i] == k){
 			return i;
@@ -112,7 +112,7 @@ bool Quadratic<Key, Value>::put(Key k, Value v) {
 	if (pos != -1) {
 		values[pos] = v;
     keys[pos] = k;
-    std::cout<<"Reemplazo! \n";
+    //std::cout<<"Reemplazo! \n";
 		return true;
 	}
 
