@@ -154,6 +154,7 @@ Value Quadratic<Key, Value>::get(const Key k)  {
 		return values[pos];
 	}
 	//throw NoSuchElement();
+	//No sé como manejar el caso donde está lleno sin un throw.
 
 }
 
