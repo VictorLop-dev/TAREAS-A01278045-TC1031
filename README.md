@@ -13,5 +13,5 @@
 >
 >8 Grafos              | Originalmente ni siquiera corría, sospecho que fue debido a que fui subiendo varias versiones en Drive (se me cruzó la entrega de la tarea con la materia de bloque) y me calificaron alguna de las primeras, que realmente ni siquiera conseguía evitar que crasheara, en la versión actual ya implementé todo y creo que funciona bien, hoy mismo también corregí un warning que me salía por una función que tenía un flujo donde no regresaba nada a pesar de no ser void.
 >
->9 Hash                | Comenté unas banderas que use para hacer/probar el programa y se me había olvidado comentar
+>9 Hash                | Comenté unas banderas que use para hacer/probar el programa y se me había olvidado comentar al entregar
 >
