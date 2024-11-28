@@ -1,11 +1,11 @@
 # Correcciones
 
 ## Num Tarea            | Corrección:
->2 Ordenamiento        | No entregué la actividad originalmente
+>2 Ordenamiento        | No entregué la actividad originalmente, pero ya la hice y subí
 >
->3 Linked List         | Originalmente entregué un link a una carpeta de drive vacía
+>3 Linked List         | Originalmente entregué un link a una carpeta de drive vacía, ya la hice y subí
 >
->4 Double Linked List  | Originalmente entregué un link a una carpeta de drive vacía
+>4 Double Linked List  | Originalmente entregué un link a una carpeta de drive vacía, ya la hice y subí
 >
 >5 BST                 | No entregué la actividad ni en un principio ni ahora
 >
